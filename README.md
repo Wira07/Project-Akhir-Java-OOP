@@ -3,7 +3,7 @@ Project Akhir dari Java OOP
 
 <h1 align="center">Hi 👋, I'm Wira Sukma Saputra</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
-<img align="Right" alt="Coding" width="400" src="https://i.pinimg.com/564x/da/40/4b/da404bf7bd4398c9f256c65507d3c860.jpg(https://user-images.githubusercontent.com/94433717/175757959-8cc7e19b-077c-4e6b-8ffe-0b4164be75de.png)"
+<img align="Right" alt="Coding" width="400" src="https://i.pinimg.com/564x/da/40/4b/da404bf7bd4398c9f256c65507d3c860.jpg"
 
 - 👨‍💻 All of my projects are available at [https://wira07.github.io/](https://wira07.github.io/)
 
